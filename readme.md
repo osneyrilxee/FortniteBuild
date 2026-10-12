@@ -22,8 +22,8 @@ To protect your main machine, **NEVER run these builds directly on your host ope
 
 ## Downloads
 
-<div style="width: 100%; height: 180px; overflow: hidden;">
-  <img src="assets/season6.jpg" alt="season6 cover" style="width: 100%; height: 100%; object-fit: cover; object-position: 50% 65%;">
+<div style="width: 100%; height: 260px; overflow: hidden;">
+  <img src="assets/season6.jpg" alt="season6 cover" style="width: 100%; height: 100%; object-fit: cover; object-position: 50% 15%;">
 </div>
 
 ### Season 6
