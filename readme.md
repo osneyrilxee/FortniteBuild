@@ -50,7 +50,7 @@ To protect your main machine, **NEVER run these builds directly on your host ope
 
 | Build | Date | Notes / Details | Download links |
 | :--- | :---: | :--- | :--- |
-| **6.21-CL-4465229** | 01-11-18 | Cleaned build / Butterfly event | **Soon** |
+| **6.21-CL-4465229** | 01-11-18 | Cleaned build / Butterfly event | [**Download**](https://archive.org/details/fortnite_6.21) |
 
 ### Season 8
 
