@@ -18,8 +18,6 @@ To protect your main machine, **NEVER run these builds directly on your host ope
 
 *Use these files entirely at your own risk.*
 
-# ------------------------------------------
-
 ## French
 
 # ⚠️ Avertissement Important / Notice de Sécurité
