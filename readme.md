@@ -90,4 +90,4 @@ To protect your main machine, **NEVER run these builds directly on your host ope
 
 | Build | Date | Notes / Details | Download links |
 | :--- | :---: | :--- | :--- |
-| **12.41-CL-12905909** | 21-04-20 | Travis Scott "Astronomical" Event build | N/A |
+| **12.41-CL-12905909** | 21-04-20 | Travis Scott "Astronomical" Event build | **soon** |
