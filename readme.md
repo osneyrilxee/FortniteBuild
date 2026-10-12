@@ -131,13 +131,3 @@ Pour protéger votre ordinateur principal, **ne lancez JAMAIS ces versions direc
 | **7.30-CL-4731338** | 29-01-19 | Marshmello Concert build | N/A |
 
 ---
-
-### Pattern pour ajouter une nouvelle saison
-
-```markdown
-### Season X
-
-| Build | Date | Notes / Details | Download links |
-| :--- | :---: | :--- | :--- |
-| **X.XX-CL-XXXXXX** | DD-MM-YY | Event / Details | [Archive.org](YOUR_LINK) |
-```
