@@ -21,6 +21,17 @@ To protect your main machine, **NEVER run these builds directly on your host ope
 # ------------------------------------------
 
 ## Downloads
+
+### Season 1
+
+<div style="width: 100%; height: 260px; overflow: hidden;">
+  <img src="assets/season1.png" alt="season1 cover" style="width: 100%; height: 100%; object-fit: cover; object-position: 50% 15%;">
+</div>
+
+| Build | Date | Notes / Details | Download links |
+| :--- | :---: | :--- | :--- |
+| **1.7.2-CL-3700114** | 17-10-17 | Fortnitemares 2017 | **soon** |
+
 ### Season 4
 
 <div style="width: 100%; height: 260px; overflow: hidden;">
@@ -70,3 +81,13 @@ To protect your main machine, **NEVER run these builds directly on your host ope
 | Build | Date | Notes / Details | Download links |
 | :--- | :---: | :--- | :--- |
 | **10.40-CL-9380822** | 25-09-19 | The End Event & Starry Suburbs Rift Zone | **soon** |
+
+### Season 12
+
+<div style="width: 100%; height: 260px; overflow: hidden;">
+  <img src="assets/season12.png" alt="season12 cover" style="width: 100%; height: 100%; object-fit: cover; object-position: 50% 15%;">
+</div>
+
+| Build | Date | Notes / Details | Download links |
+| :--- | :---: | :--- | :--- |
+| **12.41-CL-12905909** | 21-04-20 | Travis Scott "Astronomical" Event build | N/A |
