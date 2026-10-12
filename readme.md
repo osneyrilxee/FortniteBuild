@@ -22,6 +22,7 @@ To protect your main machine, **NEVER run these builds directly on your host ope
 
 ## Downloads
 
+<img src="assets/season6.jpg" alt="season6 cover" width="500">
 ### Season 6
 
 | Build | Date | Notes / Details | Download links |
