@@ -30,3 +30,13 @@ To protect your main machine, **NEVER run these builds directly on your host ope
 | Build | Date | Notes / Details | Download links |
 | :--- | :---: | :--- | :--- |
 | **6.21-CL-4465229** | 01-11-18 | Cleaned build / Butterfly event | [**Download**](https://archive.org/details/fortnite_6.21) |
+
+### Season 8
+
+<div style="width: 100%; height: 260px; overflow: hidden;">
+  <img src="assets/season8.png" alt="season8 cover" style="width: 100%; height: 100%; object-fit: cover; object-position: 50% 15%;">
+</div>
+
+| Build | Date | Notes / Details | Download links |
+| :--- | :---: | :--- | :--- |
+| **8.51-CL-6106603** | 02-05-19 | Shadow Bomb update / The Unvaulting prep | **soon** |
