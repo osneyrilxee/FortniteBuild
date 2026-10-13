@@ -49,7 +49,7 @@ To protect your main machine, **NEVER run these builds directly on your host ope
 
 | Build | Date | Cleaned Status | Notes / Details | Download links |
 | :--- | :---: | :---: | :--- | :--- |
-| **4.5-CL-4131557** | 27-06-18 | 🟡 In Progress | The Rocket Launch Event & New Mode Playground | **soon** |
+| **4.5-CL-4131557** | 27-06-18 | 🟢 Yes | The Rocket Launch Event & New Mode Playground | **soon** |
 
 ### Season 6
 
