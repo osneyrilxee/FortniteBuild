@@ -39,7 +39,7 @@ To protect your main machine, **NEVER run these builds directly on your host ope
 
 | Build | Date | Cleaned Status | Notes / Details | Download links |
 | :--- | :---: | :---: | :--- | :--- |
-| **1.7.2-CL-3700114** | 17-10-17 | 🟡 In Progress | Fortnitemares 2017 | **soon** |
+| **1.7.2-CL-3700114** | 17-10-17 | 🟢 Yes | Voice chat activation & Teammate spectating toggle | **soon** |
 
 ### Season 4
 
@@ -117,7 +117,7 @@ Get-FileHash "filename.zip" -Algorithm SHA256
 
 | Season | Build Version | Details / Notes | Filename | SHA-256 Hash |
 | :--- | :--- | :--- | :--- | :--- |
-| **Season 1** | `1.7.2-CL-3700114` | FortniteName 2017 | `Fortnite_Season1.zip` | *``* |
+| **Season 1** | `1.7.2-CL-3700114` | Voice chat activation & Teammate spectating toggle | `Fortnite_Season1.zip` | *``* |
 | **Season 4** | `4.5-CL-4131517` | The Rocket Launch Event & New Mode Playground | `Fortnite_Season4.zip` | *``* |
 | **Season 6** | `6.21-CL-4465228` | Butterfly event & Gameplay Adjustments | `Fortnite_Season6.zip` | *``* |
 | **Season 8** | `8.51-CL-6169660` | Shadow Bomb update & The Unvaulting prep | `Fortnite_Season8.zip` | *``* |
