@@ -37,9 +37,9 @@ To protect your main machine, **NEVER run these builds directly on your host ope
   <img src="assets/season1.png" alt="season1 cover" style="width: 100%; height: 100%; object-fit: cover; object-position: 50% 15%;">
 </div>
 
-| Build | Date | Notes / Details | Download links |
-| :--- | :---: | :--- | :--- |
-| **1.7.2-CL-3700114** | 17-10-17 | Fortnitemares 2017 | **soon** |
+| Build | Date | Cleaned Status | Notes / Details | Download links |
+| :--- | :---: | :---: | :--- | :--- |
+| **1.7.2-CL-3700114** | 17-10-17 | 🟡 In Progress | Fortnitemares 2017 | **soon** |
 
 ### Season 4
 
@@ -47,9 +47,9 @@ To protect your main machine, **NEVER run these builds directly on your host ope
   <img src="assets/season4.png" alt="season4 cover" style="width: 100%; height: 100%; object-fit: cover; object-position: 50% 15%;">
 </div>
 
-| Build | Date | Notes / Details | Download links |
-| :--- | :---: | :--- | :--- |
-| **4.5-CL-4131557** | 27-06-18 | Rocket Event build | **soon** |
+| Build | Date | Cleaned Status | Notes / Details | Download links |
+| :--- | :---: | :---: | :--- | :--- |
+| **4.5-CL-4131557** | 27-06-18 | 🟡 In Progress | Rocket Event build | **soon** |
 
 ### Season 6
 
@@ -57,9 +57,9 @@ To protect your main machine, **NEVER run these builds directly on your host ope
   <img src="assets/season6.png" alt="season6 cover" style="width: 100%; height: 100%; object-fit: cover; object-position: 50% 15%;">
 </div>
 
-| Build | Date | Notes / Details | Download links |
-| :--- | :---: | :--- | :--- |
-| **6.21-CL-4465229** | 01-11-18 | Cleaned build / Butterfly event | [**Download**](https://archive.org/details/fortnite_6.21) |
+| Build | Date | Cleaned Status | Notes / Details | Download links |
+| :--- | :---: | :---: | :--- | :--- |
+| **6.21-CL-4465229** | 01-11-18 | 🟢 Yes | Cleaned build / Butterfly event | [**Download**](https://archive.org/details/fortnite_6.21) |
 
 ### Season 8
 
@@ -67,9 +67,9 @@ To protect your main machine, **NEVER run these builds directly on your host ope
   <img src="assets/season8.png" alt="season8 cover" style="width: 100%; height: 100%; object-fit: cover; object-position: 50% 15%;">
 </div>
 
-| Build | Date | Notes / Details | Download links |
-| :--- | :---: | :--- | :--- |
-| **8.51-CL-6106603** | 02-05-19 | Shadow Bomb update / The Unvaulting prep | [**Download**](https://archive.org/details/fortnite_8.51) |
+| Build | Date | Cleaned Status | Notes / Details | Download links |
+| :--- | :---: | :---: | :--- | :--- |
+| **8.51-CL-6106603** | 02-05-19 | 🟢 Yes | Shadow Bomb update / The Unvaulting prep | [**Download**](https://archive.org/details/fortnite_8.51) |
 
 ### Season 9
 
@@ -77,9 +77,9 @@ To protect your main machine, **NEVER run these builds directly on your host ope
   <img src="assets/season9.png" alt="season9 cover" style="width: 100%; height: 100%; object-fit: cover; object-position: 50% 15%;">
 </div>
 
-| Build | Date | Notes / Details | Download links |
-| :--- | :---: | :--- | :--- |
-| **9.10-CL-6639283** | 22-05-19 | Hot Spots & Downtown Drop Crossover | **soon** |
+| Build | Date | Cleaned Status | Notes / Details | Download links |
+| :--- | :---: | :---: | :--- | :--- |
+| **9.10-CL-6639283** | 22-05-19 | 🟡 In Progress | Hot Spots & Downtown Drop Crossover | **soon** |
 
 ### Season X
 
@@ -87,9 +87,9 @@ To protect your main machine, **NEVER run these builds directly on your host ope
   <img src="assets/seasonX.png" alt="seasonX cover" style="width: 100%; height: 100%; object-fit: cover; object-position: 50% 15%;">
 </div>
 
-| Build | Date | Notes / Details | Download links |
-| :--- | :---: | :--- | :--- |
-| **10.40-CL-9380822** | 25-09-19 | The End Event & Starry Suburbs Rift Zone | **soon** |
+| Build | Date | Cleaned Status | Notes / Details | Download links |
+| :--- | :---: | :---: | :--- | :--- |
+| **10.40-CL-9380822** | 25-09-19 | 🟡 In Progress | The End Event & Starry Suburbs Rift Zone | **soon** |
 
 ### Season 12
 
@@ -97,9 +97,9 @@ To protect your main machine, **NEVER run these builds directly on your host ope
   <img src="assets/season12.png" alt="season12 cover" style="width: 100%; height: 100%; object-fit: cover; object-position: 50% 15%;">
 </div>
 
-| Build | Date | Notes / Details | Download links |
-| :--- | :---: | :--- | :--- |
-| **12.41-CL-12905909** | 21-04-20 | Travis Scott "Astronomical" Event build | **soon** |
+| Build | Date | Cleaned Status | Notes / Details | Download links |
+| :--- | :---: | :---: | :--- | :--- |
+| **12.41-CL-12905909** | 21-04-20 | 🟡 In Progress | Travis Scott "Astronomical" Event build | **soon** |
 
 ### 🔒 File Integrity & Verification (SHA-256)
 
@@ -124,3 +124,10 @@ Get-FileHash "filename.zip" -Algorithm SHA256
 | **Season 9** | `9.10-CL-6628263` | Hot Spots & Downtown Drop Crossover | `Fortnite_Season9.zip` | *`REPLACE_WITH_SHA256_HASH`* |
 | **Season X** | `10.40-CL-8380823` | The End Event & Starry Suburbs Rift Zone | `Fortnite_SeasonX.zip` | *`REPLACE_WITH_SHA256_HASH`* |
 | **Season 12** | *`CL-Version`* | Travis Scott Event / Season 2 Chapter 2 | `Fortnite_Season12.zip` | *`REPLACE_WITH_SHA256_HASH`* |
+
+
+| Build | Date | Cleaned Status | Notes / Details | Download links |
+| :--- | :---: | :---: | :--- | :---: |
+| **6.21-CL-4465229** | 01-11-18 | 🟢 Yes | Cleaned build / Butterfly event | [Download](#) |
+| **1.7.2-CL-3700114** | 17-10-17 | 🟡 In Progress | Fortnite original 2017 | Soon |
+| **4.5-CL-4131557** | 27-06-18 | 🔴 No | Rocket Event build | Soon |
