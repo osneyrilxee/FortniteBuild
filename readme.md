@@ -49,7 +49,7 @@ To protect your main machine, **NEVER run these builds directly on your host ope
 
 | Build | Date | Cleaned Status | Notes / Details | Download links |
 | :--- | :---: | :---: | :--- | :--- |
-| **4.5-CL-4131557** | 27-06-18 | 🟡 In Progress | The Rocket Launch Event / New Mode Playground | **soon** |
+| **4.5-CL-4131557** | 27-06-18 | 🟡 In Progress | The Rocket Launch Event & New Mode Playground | **soon** |
 
 ### Season 6
 
@@ -59,7 +59,7 @@ To protect your main machine, **NEVER run these builds directly on your host ope
 
 | Build | Date | Cleaned Status | Notes / Details | Download links |
 | :--- | :---: | :---: | :--- | :--- |
-| **6.21-CL-4465229** | 01-11-18 | 🟢 Yes | Butterfly event / Gameplay Adjustments | [**Download**](https://archive.org/details/fortnite_6.21) |
+| **6.21-CL-4465229** | 01-11-18 | 🟢 Yes | Butterfly event & Gameplay Adjustments | [**Download**](https://archive.org/details/fortnite_6.21) |
 
 ### Season 8
 
@@ -69,7 +69,7 @@ To protect your main machine, **NEVER run these builds directly on your host ope
 
 | Build | Date | Cleaned Status | Notes / Details | Download links |
 | :--- | :---: | :---: | :--- | :--- |
-| **8.51-CL-6106603** | 02-05-19 | 🟢 Yes | Shadow Bomb update / The Unvaulting prep | [**Download**](https://archive.org/details/fortnite_8.51) |
+| **8.51-CL-6106603** | 02-05-19 | 🟢 Yes | Shadow Bomb update & The Unvaulting prep | [**Download**](https://archive.org/details/fortnite_8.51) |
 
 ### Season 9
 
@@ -99,7 +99,7 @@ To protect your main machine, **NEVER run these builds directly on your host ope
 
 | Build | Date | Cleaned Status | Notes / Details | Download links |
 | :--- | :---: | :---: | :--- | :--- |
-| **12.41-CL-12905909** | 21-04-20 | 🔴 No | Travis Scott "Astronomical" Event / Gameplay Fixes | **soon** |
+| **12.41-CL-12905909** | 21-04-20 | 🔴 No | Travis Scott "Astronomical" Event & Gameplay Fixes | **soon** |
 
 ### 🔒 File Integrity & Verification (SHA-256)
 
@@ -118,9 +118,9 @@ Get-FileHash "filename.zip" -Algorithm SHA256
 | Season | Build Version | Details / Notes | Filename | SHA-256 Hash |
 | :--- | :--- | :--- | :--- | :--- |
 | **Season 1** | `1.7.2-CL-3700114` | FortniteName 2017 | `Fortnite_Season1.zip` | *`REPLACE_WITH_SHA256_HASH`* |
-| **Season 4** | `4.5-CL-4131517` | The Rocket Launch Event / New Mode Playground | `Fortnite_Season4.zip` | *`REPLACE_WITH_SHA256_HASH`* |
-| **Season 6** | `6.21-CL-4465228` | Butterfly event / Gameplay Adjustments | `Fortnite_Season6.zip` | *`REPLACE_WITH_SHA256_HASH`* |
-| **Season 8** | `8.51-CL-6169660` | Shadow Bomb update / The Unvaulting prep | `Fortnite_Season8.zip` | *`REPLACE_WITH_SHA256_HASH`* |
+| **Season 4** | `4.5-CL-4131517` | The Rocket Launch Event & New Mode Playground | `Fortnite_Season4.zip` | *`REPLACE_WITH_SHA256_HASH`* |
+| **Season 6** | `6.21-CL-4465228` | Butterfly event & Gameplay Adjustments | `Fortnite_Season6.zip` | *`REPLACE_WITH_SHA256_HASH`* |
+| **Season 8** | `8.51-CL-6169660` | Shadow Bomb update & The Unvaulting prep | `Fortnite_Season8.zip` | *`REPLACE_WITH_SHA256_HASH`* |
 | **Season 9** | `9.10-CL-6628263` | Hot Spots & Downtown Drop Crossover | `Fortnite_Season9.zip` | *`REPLACE_WITH_SHA256_HASH`* |
 | **Season X** | `10.40-CL-8380823` | The End Event & Starry Suburbs Rift Zone | `Fortnite_SeasonX.zip` | *`REPLACE_WITH_SHA256_HASH`* |
-| **Season 12** | *`12.41-CL-12905909`* | Travis Scott Event / Gameplay Fixes | `Fortnite_Season12.zip` | *`REPLACE_WITH_SHA256_HASH`* |
+| **Season 12** | *`12.41-CL-12905909`* | Travis Scott Event & Gameplay Fixes | `Fortnite_Season12.zip` | *`REPLACE_WITH_SHA256_HASH`* |
