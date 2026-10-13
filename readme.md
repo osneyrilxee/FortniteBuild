@@ -49,7 +49,7 @@ To protect your main machine, **NEVER run these builds directly on your host ope
 
 | Build | Date | Cleaned Status | Notes / Details | Download links |
 | :--- | :---: | :---: | :--- | :--- |
-| **4.5-CL-4131557** | 27-06-18 | 🟡 In Progress | Rocket Event build | **soon** |
+| **4.5-CL-4131557** | 27-06-18 | 🟡 In Progress | The Rocket Launch Event / New Mode Playground | **soon** |
 
 ### Season 6
 
@@ -118,8 +118,8 @@ Get-FileHash "filename.zip" -Algorithm SHA256
 | Season | Build Version | Details / Notes | Filename | SHA-256 Hash |
 | :--- | :--- | :--- | :--- | :--- |
 | **Season 1** | `1.7.2-CL-3700114` | FortniteName 2017 | `Fortnite_Season1.zip` | *`REPLACE_WITH_SHA256_HASH`* |
-| **Season 4** | `4.5-CL-4131517` | Rocket Event build | `Fortnite_Season4.zip` | *`REPLACE_WITH_SHA256_HASH`* |
-| **Season 6** | `6.21-CL-4465228` | Cleaned build / Butterfly event | `Fortnite_Season6.zip` | *`REPLACE_WITH_SHA256_HASH`* |
+| **Season 4** | `4.5-CL-4131517` | The Rocket Launch Event / New Mode Playground | `Fortnite_Season4.zip` | *`REPLACE_WITH_SHA256_HASH`* |
+| **Season 6** | `6.21-CL-4465228` | Butterfly event | `Fortnite_Season6.zip` | *`REPLACE_WITH_SHA256_HASH`* |
 | **Season 8** | `8.51-CL-6169660` | Shadow Bomb update / The Unvaulting prep | `Fortnite_Season8.zip` | *`REPLACE_WITH_SHA256_HASH`* |
 | **Season 9** | `9.10-CL-6628263` | Hot Spots & Downtown Drop Crossover | `Fortnite_Season9.zip` | *`REPLACE_WITH_SHA256_HASH`* |
 | **Season X** | `10.40-CL-8380823` | The End Event & Starry Suburbs Rift Zone | `Fortnite_SeasonX.zip` | *`REPLACE_WITH_SHA256_HASH`* |
