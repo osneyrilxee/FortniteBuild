@@ -60,7 +60,7 @@ To protect your main machine, **NEVER run these builds directly on your host ope
 
 | Build | Date | Notes / Details | Download links |
 | :--- | :---: | :--- | :--- |
-| **8.51-CL-6106603** | 02-05-19 | Shadow Bomb update / The Unvaulting prep | **soon** |
+| **8.51-CL-6106603** | 02-05-19 | Shadow Bomb update / The Unvaulting prep | [**Download**](https://archive.org/details/fortnite_8.51) |
 
 ### Season 9
 
