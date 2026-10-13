@@ -89,7 +89,7 @@ To protect your main machine, **NEVER run these builds directly on your host ope
 
 | Build | Date | Cleaned Status | Notes / Details | Download links |
 | :--- | :---: | :---: | :--- | :--- |
-| **10.40-CL-9380822** | 25-09-19 | 🟡 In Progress | The End Event & Starry Suburbs Rift Zone | **soon** |
+| **10.40-CL-9380822** | 25-09-19 | 🟢 Yes | The End Event & Starry Suburbs Rift Zone | **soon** |
 
 ### Season 12
 
@@ -99,7 +99,7 @@ To protect your main machine, **NEVER run these builds directly on your host ope
 
 | Build | Date | Cleaned Status | Notes / Details | Download links |
 | :--- | :---: | :---: | :--- | :--- |
-| **12.41-CL-12905909** | 21-04-20 | 🟡 In Progress | Travis Scott "Astronomical" Event build | **soon** |
+| **12.41-CL-12905909** | 21-04-20 | 🔴 No | Travis Scott "Astronomical" Event build | **soon** |
 
 ### 🔒 File Integrity & Verification (SHA-256)
 
@@ -124,10 +124,3 @@ Get-FileHash "filename.zip" -Algorithm SHA256
 | **Season 9** | `9.10-CL-6628263` | Hot Spots & Downtown Drop Crossover | `Fortnite_Season9.zip` | *`REPLACE_WITH_SHA256_HASH`* |
 | **Season X** | `10.40-CL-8380823` | The End Event & Starry Suburbs Rift Zone | `Fortnite_SeasonX.zip` | *`REPLACE_WITH_SHA256_HASH`* |
 | **Season 12** | *`CL-Version`* | Travis Scott Event / Season 2 Chapter 2 | `Fortnite_Season12.zip` | *`REPLACE_WITH_SHA256_HASH`* |
-
-
-| Build | Date | Cleaned Status | Notes / Details | Download links |
-| :--- | :---: | :---: | :--- | :---: |
-| **6.21-CL-4465229** | 01-11-18 | 🟢 Yes | Cleaned build / Butterfly event | [Download](#) |
-| **1.7.2-CL-3700114** | 17-10-17 | 🟡 In Progress | Fortnite original 2017 | Soon |
-| **4.5-CL-4131557** | 27-06-18 | 🔴 No | Rocket Event build | Soon |
