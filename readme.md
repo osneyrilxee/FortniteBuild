@@ -59,7 +59,7 @@ To protect your main machine, **NEVER run these builds directly on your host ope
 
 | Build | Date | Cleaned Status | Notes / Details | Download links |
 | :--- | :---: | :---: | :--- | :--- |
-| **6.21-CL-4465229** | 01-11-18 | 🟢 Yes | Butterfly event | [**Download**](https://archive.org/details/fortnite_6.21) |
+| **6.21-CL-4465229** | 01-11-18 | 🟢 Yes | Butterfly event / Gameplay Adjustments | [**Download**](https://archive.org/details/fortnite_6.21) |
 
 ### Season 8
 
@@ -99,7 +99,7 @@ To protect your main machine, **NEVER run these builds directly on your host ope
 
 | Build | Date | Cleaned Status | Notes / Details | Download links |
 | :--- | :---: | :---: | :--- | :--- |
-| **12.41-CL-12905909** | 21-04-20 | 🔴 No | Travis Scott "Astronomical" Event build | **soon** |
+| **12.41-CL-12905909** | 21-04-20 | 🔴 No | Travis Scott "Astronomical" Event / Gameplay Fixes | **soon** |
 
 ### 🔒 File Integrity & Verification (SHA-256)
 
