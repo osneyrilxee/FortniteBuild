@@ -19,6 +19,12 @@ To protect your main machine, **NEVER run these builds directly on your host ope
   * **RAM:** 12 GB minimum[cite: 1, 2]
   * **Video Memory (VRAM):** 128 MB minimum[cite: 1, 2]
 
+
+> [!NOTE]
+> **Why use a Virtual Machine (VM)?**
+> Due to GPU performance limitations, the game will likely not be playable smoothly inside a Virtual Machine. 
+> 
+> The main purpose of running it inside a VM is to **safely test launching the build** and monitor any system behavior (file changes, background processes, network activity) without risking your primary operating system.
 *Use these files entirely at your own risk.*[cite: 1, 2]
 
 # ------------------------------------------
