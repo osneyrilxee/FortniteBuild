@@ -94,3 +94,27 @@ To protect your main machine, **NEVER run these builds directly on your host ope
 | Build | Date | Notes / Details | Download links |
 | :--- | :---: | :--- | :--- |
 | **12.41-CL-12905909** | 21-04-20 | Travis Scott "Astronomical" Event build | **soon** |
+
+### 🔒 File Integrity & Verification (SHA-256)
+
+Before launching any downloaded archive, you can verify its file integrity by checking its **SHA-256 hash**. This ensures that the file was not altered or corrupted during download.
+
+#### How to check the hash on Windows:
+Open PowerShell in the folder where your downloaded `.zip` or `.rar` file is located and run:
+```powershell
+Get-FileHash "filename.zip" -Algorithm SHA256
+```
+
+---
+
+#### Hashes List:
+
+| Season | Build Version | Details / Notes | Filename | SHA-256 Hash |
+| :--- | :--- | :--- | :--- | :--- |
+| **Season 1** | `1.7.2-CL-3700114` | FortniteName 2017 | `Fortnite_Season1.zip` | *`REPLACE_WITH_SHA256_HASH`* |
+| **Season 4** | `4.5-CL-4131517` | Rocket Event build | `Fortnite_Season4.zip` | *`REPLACE_WITH_SHA256_HASH`* |
+| **Season 6** | `6.21-CL-4465228` | Cleaned build / Butterfly event | `Fortnite_Season6.zip` | *`REPLACE_WITH_SHA256_HASH`* |
+| **Season 8** | `8.51-CL-6169660` | Shadow Bomb update / The Unvaulting prep | `Fortnite_Season8.zip` | *`REPLACE_WITH_SHA256_HASH`* |
+| **Season 9** | `9.10-CL-6628263` | Hot Spots & Downtown Drop Crossover | `Fortnite_Season9.zip` | *`REPLACE_WITH_SHA256_HASH`* |
+| **Season X** | `10.40-CL-8380823` | The End Event & Starry Suburbs Rift Zone | `Fortnite_SeasonX.zip` | *`REPLACE_WITH_SHA256_HASH`* |
+| **Season 12** | *`CL-Version`* | Travis Scott Event / Season 2 Chapter 2 | `Fortnite_Season12.zip` | *`REPLACE_WITH_SHA256_HASH`* |
