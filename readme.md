@@ -2,21 +2,24 @@
 
 # ⚠️ Important Warning / Security Notice
 
-I collected, installed, and tested these legacy Fortnite builds out of passion for the game's "Prime" era.
+I collected, restored, and tested these legacy Fortnite builds out of passion for the game's "Prime" era[cite: 1, 2].
 
-> **WARNING:** These files were originally obtained from third-party sources and contained multiple Trojans. I performed an extensive cleanup on every build included in this repository to remove infected files. However, **no cleaned build can be guaranteed 100% safe.**
+> **WARNING:** These files were originally obtained from third-party sources and contained multiple Trojans[cite: 1, 2]. I performed an extensive cleanup on every build included in this repository to remove infected files[cite: 1, 2]. However, **no cleaned build can be guaranteed 100% safe.**[cite: 1, 2]
+
+### 🔧 Restoration & Cleanup Process
+To make these builds usable, I spent 3+ hours per version manually analyzing every folder and replacing modified/infected core files (such as `Shipping.exe`, Anti-Cheat tools, and compromised DLLs) with clean, official game files I owned. Each build was then thoroughly tested to ensure stability without crashing[cite: 1].
 
 ### 🛡️ Precaution & Context
-During my own testing, I picked up three Trojans and had to reinstall Windows 11 twice in two months. Therefore, please treat this repository as an experimental archive rather than a completely safe source.
+During my own testing, I picked up three Trojans and had to reinstall Windows 11 twice in two months[cite: 1, 2]. Therefore, please treat this repository as an experimental archive rather than a completely safe source[cite: 1, 2].
 
 ### 💻 Execution Guidelines
-To protect your main machine, **NEVER run these builds directly on your host operating system**.
-* Run them strictly inside a **Virtual Machine (VM)**.
-* Minimum recommended VM settings:
-  * **RAM:** 12 GB minimum
-  * **Video Memory (VRAM):** 128 MB minimum
+To protect your main machine, **NEVER run these builds directly on your host operating system**[cite: 1, 2].
+* Run them strictly inside a **Virtual Machine (VM)**[cite: 1, 2].
+* Minimum recommended VM settings[cite: 1, 2]:
+  * **RAM:** 12 GB minimum[cite: 1, 2]
+  * **Video Memory (VRAM):** 128 MB minimum[cite: 1, 2]
 
-*Use these files entirely at your own risk.*
+*Use these files entirely at your own risk.*[cite: 1, 2]
 
 # ------------------------------------------
 
