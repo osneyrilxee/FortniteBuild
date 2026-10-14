@@ -50,7 +50,7 @@ To protect your main machine, **NEVER run these builds directly on your host ope
 
 | Build | Date | Cleaned Status | Notes / Details | Download links |
 | :--- | :---: | :---: | :--- | :--- |
-| **2.3.0-CL-3847564** | 27-06-18 | 🟢 Yes | Added Auto Run & Added setting to disable aim assist consoles | **soon** |
+| **2.3.0-CL-3847564** | 27-06-18 | 🟠 In Progress | Added Auto Run & Added setting to disable aim assist consoles | **soon** |
 
 ### Season 3
 
