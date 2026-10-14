@@ -31,10 +31,10 @@ To protect your main machine, **NEVER run these builds directly on your host ope
 
 ## Downloads
 
-### Season 1
+### Pre season
 
 <div style="width: 100%; height: 260px; overflow: hidden;">
-  <img src="assets/season1.png" alt="season1 cover" style="width: 100%; height: 100%; object-fit: cover; object-position: 50% 15%;">
+  <img src="assets/preseason.png" alt="pre season cover" style="width: 100%; height: 100%; object-fit: cover; object-position: 50% 15%;">
 </div>
 
 | Build | Date | Cleaned Status | Notes / Details | Download links |
@@ -127,7 +127,7 @@ Get-FileHash "filename.zip" -Algorithm SHA256
 
 | Season | Build Version | Details / Notes | Filename | SHA-256 Hash |
 | :--- | :--- | :--- | :--- | :--- |
-| **Season 1** | `1.7.2-CL-3700114` | Voice chat activation & Teammate spectating toggle | `Fortnite_Season1.zip` | *``* |
+| **Pre season** | `1.7.2-CL-3700114` | Voice chat activation & Teammate spectating toggle | `Fortnite_Season1.zip` | *``* |
 | **Season 3** | `3.5-CL-4000805` | Replay Layout & Port-a-Fort & Meteorite visible | `Fortnite_Season3.zip` | *``* |
 | **Season 4** | `4.5-CL-4131517` | The Rocket Launch Event & New Mode Playground | `Fortnite_Season4.zip` | *``* |
 | **Season 6** | `6.21-CL-4465228` | Butterfly event & Gameplay Adjustments | `Fortnite_Season6.zip` | *``* |
