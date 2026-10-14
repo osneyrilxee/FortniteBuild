@@ -89,7 +89,7 @@ To protect your main machine, **NEVER run these builds directly on your host ope
 
 | Build | Date | Cleaned Status | Notes / Details | Download links |
 | :--- | :---: | :---: | :--- | :--- |
-| **10.40-CL-9380822** | 25-09-19 | 🟢 Yes | The End Event & Starry Suburbs Rift Zone | **soon** |
+| **10.40-CL-9380822** | 25-09-19 | 🟢 Yes | The End Event & Starry Suburbs Rift Zone | [**Download**](https://archive.org/details/fortnite_10.40) |
 
 ### Season 12
 
