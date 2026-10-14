@@ -99,7 +99,7 @@ To protect your main machine, **NEVER run these builds directly on your host ope
 
 | Build | Date | Cleaned Status | Notes / Details | Download links |
 | :--- | :---: | :---: | :--- | :--- |
-| **12.41-CL-12905909** | 21-04-20 | 🔴 No | Travis Scott "Astronomical" Event & Gameplay Fixes | **soon** |
+| **12.41-CL-12905909** | 21-04-20 | 🔴 No | Travis Scott "Astronomical" Event & Gameplay Fixes | **N/A** |
 
 ### 🔒 File Integrity & Verification (SHA-256)
 
