@@ -79,7 +79,7 @@ To protect your main machine, **NEVER run these builds directly on your host ope
 
 | Build | Date | Cleaned Status | Notes / Details | Download links |
 | :--- | :---: | :---: | :--- | :--- |
-| **9.10-CL-6639283** | 22-05-19 | 🟡 In Progress | Hot Spots & Downtown Drop Crossover | **soon** |
+| **9.10-CL-6639283** | 22-05-19 | 🟢 Yes | Hot Spots & Downtown Drop Crossover | **soon** |
 
 ### Season X
 
