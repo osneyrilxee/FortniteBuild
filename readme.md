@@ -49,7 +49,7 @@ To protect your main machine, **NEVER run these builds directly on your host ope
 
 | Build | Date | Cleaned Status | Notes / Details | Download links |
 | :--- | :---: | :---: | :--- | :--- |
-| **3.5-CL-4000805** | 12-04-18 | 🟢 Yes | Replay Layout & Port-a-Fort | **soon** |
+| **3.5-CL-4000805** | 12-04-18 | 🟢 Yes | Replay Layout & Port-a-Fort & Meteorite visible | **soon** |
 
 ### Season 4
 
