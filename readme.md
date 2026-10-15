@@ -27,6 +27,8 @@ To protect your main machine, **NEVER run these builds directly on your host ope
 > The main purpose of running it inside a VM is to **safely test launching the build** and monitor any system behavior (file changes, background processes, network activity) without risking your primary operating system.
 *Use these files entirely at your own risk.*[cite: 1, 2]
 
+_Once I have removed all viruses from a version, it undergoes thorough testing on my personal computer before being made available online. Please take note of this._
+
 # ------------------------------------------
 
 ## Downloads
@@ -50,7 +52,7 @@ To protect your main machine, **NEVER run these builds directly on your host ope
 
 | Build | Date | Cleaned Status | Notes / Details | Download links |
 | :--- | :---: | :---: | :--- | :--- |
-| **2.3.0-CL-3847564** | 27-06-18 | 🟠 In Progress | Added Auto Run & Added setting to disable aim assist consoles | **soon** |
+| **2.3.0-CL-3847564** | 27-06-18 | 🟢 Yes | Added Auto Run & Added setting to disable aim assist consoles | **soon** |
 
 ### Season 3
 
