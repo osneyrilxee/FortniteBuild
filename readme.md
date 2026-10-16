@@ -72,7 +72,7 @@ _Once I have removed all viruses from a version, it undergoes thorough testing o
 
 | Build | Date | Cleaned Status | Notes / Details | Download links |
 | :--- | :---: | :---: | :--- | :--- |
-| **4.5-CL-4131557** | 27-06-18 | 🟢 Yes | The Rocket Launch Event & New Mode Playground | **soon** |
+| **4.5-CL-4131557** | 27-06-18 | 🟢 Yes | The Rocket Launch Event & New Mode Playground | [**Download**](https://archive.org/details/fortnite_4.5) |
 
 ### Season 6
 
