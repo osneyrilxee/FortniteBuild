@@ -52,7 +52,7 @@ _Once I have removed all viruses from a version, it undergoes thorough testing o
 
 | Build | Date | Cleaned Status | Notes / Details | Download links |
 | :--- | :---: | :---: | :--- | :--- |
-| **2.3.0-CL-3847564** | 27-06-18 | 🟢 Yes | Added Auto Run & Added setting to disable aim assist consoles | **soon** |
+| **2.3.0-CL-3847564** | 27-06-18 | 🟢 Yes | Added Auto Run & Added setting to disable aim assist consoles | [**Download**](https://archive.org/details/fortnite_2.3) |
 
 ### Season 3
 
