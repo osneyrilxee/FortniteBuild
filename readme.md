@@ -143,7 +143,7 @@ Get-FileHash "filename.zip" -Algorithm SHA256
 | **Pre season** | `1.7.2-CL-3700114` | Voice chat activation & Teammate spectating toggle | `Fortnite_Season1.zip` | *``* |
 | **Season 2** | `2.3.0-CL-3847564` | Added Auto Run & Added setting to disable aim assist consoles | `Fortnite_Season2.zip` | *``* |
 | **Season 3** | `3.5-CL-4000805` | Replay Layout & Port-a-Fort & Meteorite visible | `Fortnite_Season3.zip` | *``* |
-| **Season 4** | `4.5-CL-4131517` | The Rocket Launch Event & New Mode Playground | `Fortnite_Season4.zip` | *``* |
+| **Season 4** | `4.5-CL-4131517` | The Rocket Launch Event & New Mode Playground | `Fortnite_Season4.zip` | *`eab5905020a8269f8e0626525f67104543988791ca39ecb495a23f2e7adda903`* |
 | **Season 6** | `6.21-CL-4465228` | Butterfly event & Gameplay Adjustments | `Fortnite_Season6.zip` | *`727617fe5fe2b693be3c33d7401369e701ddae42642a9af020f009237391e220`* |
 | **Season 8** | `8.51-CL-6169660` | Shadow Bomb update & The Unvaulting prep | `Fortnite_Season8.zip` | *`57887b7e6dab562a236fc9800f1d29d32f22aaab3d9bb81e270bdb8044428334`* |
 | **Season 9** | `9.10-CL-6628263` | Hot Spots & Downtown Drop Crossover | `Fortnite_Season9.zip` | *``* |
