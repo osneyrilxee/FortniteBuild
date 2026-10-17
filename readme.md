@@ -102,7 +102,7 @@ _Once I have removed all viruses from a version, it undergoes thorough testing o
 
 | Build | Date | Cleaned Status | Notes / Details | Download links |
 | :--- | :---: | :---: | :--- | :--- |
-| **9.10-CL-6639283** | 22-05-19 | 🟢 Yes | Hot Spots & Downtown Drop Crossover | **soon** |
+| **9.10-CL-6639283** | 22-05-19 | 🟢 Yes | Hot Spots & Downtown Drop Crossover | [**Download**](https://archive.org/details/fortnite_9.10) |
 
 ### Season X
 
