@@ -62,7 +62,7 @@ _Once I have removed all viruses from a version, it undergoes thorough testing o
 
 | Build | Date | Cleaned Status | Notes / Details | Download links |
 | :--- | :---: | :---: | :--- | :--- |
-| **3.5-CL-4000805** | 12-04-18 | 🟠 In Progress | Replay Layout & Port-a-Fort & Meteorite visible | **soon** |
+| **3.5-CL-4000805** | 12-04-18 | 🟢 Yes | Replay Layout & Port-a-Fort & Meteorite visible | **soon** |
 
 ### Season 4
 
